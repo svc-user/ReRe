@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7F9BC4C8-8132-42C5-B5F8-7B21F7969526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReRe", "ReRe\ReRe.csproj", "{A490C1D3-E924-4DF3-8A56-B96D41D1B5F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A490C1D3-E924-4DF3-8A56-B96D41D1B5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A490C1D3-E924-4DF3-8A56-B96D41D1B5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A490C1D3-E924-4DF3-8A56-B96D41D1B5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A490C1D3-E924-4DF3-8A56-B96D41D1B5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
